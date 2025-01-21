@@ -1,1 +1,1 @@
-# react-app-template
+# exittus-ui
